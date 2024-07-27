@@ -1,8 +1,8 @@
 # Yubo-Socialnetworking
 
-Yubo Clone is a beautiful web application inspired by the design principles of Yubo's past website, showcasing a blend of modern frontend technologies and creative animations. Built with basic HTML and CSS, the project incorporates fundamental CSS features and animations to create a visually appealing and functional website. This project is a clone of Yubo's earlier design.
+Yubo Clone is a beautiful web application inspired by the design principles of Yubo's past website, showcasing a blend of modern frontend technologies and creative animations. Built with basic HTML and CSS, the project incorporates fundamental CSS features and animations to create a visually appealing and functional website. This project is a clone of Yubo's earlier design: https://www.yubo.live/
 
-###-Hosted on: https://sachinmehar21.github.io/Gypto-cryptocards/
+###-Hosted on: https://sachinmehar21.github.io/Yubo-Socialnetworking/
 
 #Table of Contents
  • Installation
