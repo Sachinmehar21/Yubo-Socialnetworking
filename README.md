@@ -4,7 +4,8 @@ Yubo Clone is a beautiful web application inspired by the design principles of Y
 
 ###-Hosted on: https://sachinmehar21.github.io/Yubo-Socialnetworking/
 
-#Table of Contents
+# Table of Contents
+
  • Installation
  • Features
  • Contributing
